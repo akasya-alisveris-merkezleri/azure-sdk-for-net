@@ -4,7 +4,7 @@
   "dependencies": {
     "@cspell/cspell-bundled-dicts": "^5.21.2",
     "@cspell/cspell-types": "^5.12.3",
-    "cspell": "^5.12.3",
+    "cspell": "^5.21.2",
     "cspell-lib": "^5.12.3"
   }
 }
